@@ -5,7 +5,6 @@
 # Coded by <pedro.parracho@cern.ch>
 #
 
-#!/bin/bash
 echo Script name: $0
 echo $# arguments 
 
